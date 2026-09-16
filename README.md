@@ -15,4 +15,4 @@ A diagnostic analysis of The Economist's Big Mac Index dataset that identifies a
 - Dropping incomplete-panel countries removes 32 of 57 tracked economies, non-randomly: it excludes both discontinued entries (e.g., Russia) and countries with legitimate mid-series gaps, not just recently added ones
 - The complete-panel-only average overstates the true global average Big Mac price by roughly $0.08 (about 2.1%), running higher in 33 of 45 periods
 - The full panel is unbalanced (57 units × 45 periods, only 25 countries with complete coverage), and several columns carry more than 10% missing data — a structural feature of the dataset that summary statistics must account for rather than discard
-- 
+  
